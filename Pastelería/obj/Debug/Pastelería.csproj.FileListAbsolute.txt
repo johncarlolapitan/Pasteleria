@@ -1,0 +1,168 @@
+C:\Users\Jude Michael\Desktop\legit expo\Pastelería\Pastelería\bin\Debug\Pastelería.exe
+C:\Users\Jude Michael\Desktop\legit expo\Pastelería\Pastelería\bin\Debug\Pastelería.exe.config
+C:\Users\Jude Michael\Desktop\legit expo\Pastelería\Pastelería\obj\Debug\Pastelería.frmAdminDashboard.resources
+C:\Users\Jude Michael\Desktop\legit expo\Pastelería\Pastelería\obj\Debug\Pastelería.UI.frmCategories.resources
+C:\Users\Jude Michael\Desktop\legit expo\Pastelería\Pastelería\obj\Debug\Pastelería.frmCashier.resources
+C:\Users\Jude Michael\Desktop\legit expo\Pastelería\Pastelería\obj\Debug\Pastelería.UI.frmInventory.resources
+C:\Users\Jude Michael\Desktop\legit expo\Pastelería\Pastelería\obj\Debug\Pastelería.UI.frmLogin.resources
+C:\Users\Jude Michael\Desktop\legit expo\Pastelería\Pastelería\obj\Debug\Pastelería.UI.frmProducts.resources
+C:\Users\Jude Michael\Desktop\legit expo\Pastelería\Pastelería\obj\Debug\AnyStore.UI.frmPurchaseAndSales.resources
+C:\Users\Jude Michael\Desktop\legit expo\Pastelería\Pastelería\obj\Debug\Pastelería.UI.frmtrans.resources
+C:\Users\Jude Michael\Desktop\legit expo\Pastelería\Pastelería\obj\Debug\Pastelería.UI.frmTransactions.resources
+C:\Users\Jude Michael\Desktop\legit expo\Pastelería\Pastelería\obj\Debug\Pastelería.Properties.Resources.resources
+C:\Users\Jude Michael\Desktop\legit expo\Pastelería\Pastelería\obj\Debug\Pastelería.frmUserDashboard.resources
+C:\Users\Jude Michael\Desktop\legit expo\Pastelería\Pastelería\obj\Debug\Pastelería.UI.frmUsers.resources
+C:\Users\Jude Michael\Desktop\legit expo\Pastelería\Pastelería\obj\Debug\Pastelería.csproj.GenerateResource.Cache
+C:\Users\Jude Michael\Desktop\legit expo\Pastelería\Pastelería\obj\Debug\Pastelería.exe
+C:\Users\Jude Michael\Desktop\legit expo\Pastelería\Pastelería\obj\Debug\Pastelería.pdb
+C:\Users\Jude Michael\Desktop\legit expo\Pastelería\Pastelería\bin\Debug\Pastelería.pdb
+C:\Users\Jude Michael\Desktop\legit expo\Pastelería\Pastelería\obj\Debug\Pastelería.csprojResolveAssemblyReference.cache
+C:\Users\Jude Michael\Desktop\legit expo\Pastelería\Pastelería\obj\Debug\Pastelería.UI.frmReports.resources
+E:\Drive\caloy\legit expo\legit expo\Pastelería\Pastelería\bin\Debug\Pastelería.exe.config
+E:\Drive\caloy\legit expo\legit expo\Pastelería\Pastelería\bin\Debug\Pastelería.exe
+E:\Drive\caloy\legit expo\legit expo\Pastelería\Pastelería\bin\Debug\Pastelería.pdb
+E:\Drive\caloy\legit expo\legit expo\Pastelería\Pastelería\obj\Debug\Pastelería.frmAdminDashboard.resources
+E:\Drive\caloy\legit expo\legit expo\Pastelería\Pastelería\obj\Debug\Pastelería.UI.frmCategories.resources
+E:\Drive\caloy\legit expo\legit expo\Pastelería\Pastelería\obj\Debug\Pastelería.frmCashier.resources
+E:\Drive\caloy\legit expo\legit expo\Pastelería\Pastelería\obj\Debug\Pastelería.UI.frmInventory.resources
+E:\Drive\caloy\legit expo\legit expo\Pastelería\Pastelería\obj\Debug\Pastelería.UI.frmLogin.resources
+E:\Drive\caloy\legit expo\legit expo\Pastelería\Pastelería\obj\Debug\Pastelería.UI.frmProducts.resources
+E:\Drive\caloy\legit expo\legit expo\Pastelería\Pastelería\obj\Debug\AnyStore.UI.frmPurchaseAndSales.resources
+E:\Drive\caloy\legit expo\legit expo\Pastelería\Pastelería\obj\Debug\Pastelería.UI.frmReports.resources
+E:\Drive\caloy\legit expo\legit expo\Pastelería\Pastelería\obj\Debug\Pastelería.UI.frmtrans.resources
+E:\Drive\caloy\legit expo\legit expo\Pastelería\Pastelería\obj\Debug\Pastelería.UI.frmTransactions.resources
+E:\Drive\caloy\legit expo\legit expo\Pastelería\Pastelería\obj\Debug\Pastelería.Properties.Resources.resources
+E:\Drive\caloy\legit expo\legit expo\Pastelería\Pastelería\obj\Debug\Pastelería.frmUserDashboard.resources
+E:\Drive\caloy\legit expo\legit expo\Pastelería\Pastelería\obj\Debug\Pastelería.UI.frmUsers.resources
+E:\Drive\caloy\legit expo\legit expo\Pastelería\Pastelería\obj\Debug\Pastelería.csproj.GenerateResource.cache
+E:\Drive\caloy\legit expo\legit expo\Pastelería\Pastelería\obj\Debug\Pastelería.csproj.CoreCompileInputs.cache
+E:\Drive\caloy\legit expo\legit expo\Pastelería\Pastelería\obj\Debug\Pastelería.exe
+E:\Drive\caloy\legit expo\legit expo\Pastelería\Pastelería\obj\Debug\Pastelería.pdb
+E:\Drive\caloy\legit expo\legit expo\Pastelería\Pastelería\obj\Debug\Pastelería.csprojAssemblyReference.cache
+C:\Users\Jude Michael\Desktop\legit expo\legit na talaga to\caloy\legit expo\legit expo\Pastelería\Pastelería\bin\Debug\Pastelería.exe.config
+C:\Users\Jude Michael\Desktop\legit expo\legit na talaga to\caloy\legit expo\legit expo\Pastelería\Pastelería\obj\Debug\Pastelería.exe
+C:\Users\Jude Michael\Desktop\legit expo\legit na talaga to\caloy\legit expo\legit expo\Pastelería\Pastelería\obj\Debug\Pastelería.pdb
+C:\Users\Jude Michael\Desktop\legit expo\legit na talaga to\caloy\legit expo\legit expo\Pastelería\Pastelería\bin\Debug\Pastelería.exe
+C:\Users\Jude Michael\Desktop\legit expo\legit na talaga to\caloy\legit expo\legit expo\Pastelería\Pastelería\bin\Debug\Pastelería.pdb
+C:\Users\Jude Michael\Desktop\legit expo\legit na talaga to\caloy\legit expo\legit expo\Pastelería\Pastelería\obj\Debug\Pastelería.csprojResolveAssemblyReference.cache
+C:\Users\Jude Michael\Desktop\legit expo\legit na talaga to\caloy\legit expo\legit expo\Pastelería\Pastelería\obj\Debug\Pastelería.frmAdminDashboard.resources
+C:\Users\Jude Michael\Desktop\legit expo\legit na talaga to\caloy\legit expo\legit expo\Pastelería\Pastelería\obj\Debug\Pastelería.UI.frmCategories.resources
+C:\Users\Jude Michael\Desktop\legit expo\legit na talaga to\caloy\legit expo\legit expo\Pastelería\Pastelería\obj\Debug\Pastelería.UI.frmInventory.resources
+C:\Users\Jude Michael\Desktop\legit expo\legit na talaga to\caloy\legit expo\legit expo\Pastelería\Pastelería\obj\Debug\Pastelería.UI.frmLogin.resources
+C:\Users\Jude Michael\Desktop\legit expo\legit na talaga to\caloy\legit expo\legit expo\Pastelería\Pastelería\obj\Debug\Pastelería.UI.frmProducts.resources
+C:\Users\Jude Michael\Desktop\legit expo\legit na talaga to\caloy\legit expo\legit expo\Pastelería\Pastelería\obj\Debug\Pastelería.UI.frmReports.resources
+C:\Users\Jude Michael\Desktop\legit expo\legit na talaga to\caloy\legit expo\legit expo\Pastelería\Pastelería\obj\Debug\Pastelería.UI.frmtrans.resources
+C:\Users\Jude Michael\Desktop\legit expo\legit na talaga to\caloy\legit expo\legit expo\Pastelería\Pastelería\obj\Debug\Pastelería.Properties.Resources.resources
+C:\Users\Jude Michael\Desktop\legit expo\legit na talaga to\caloy\legit expo\legit expo\Pastelería\Pastelería\obj\Debug\Pastelería.frmUserDashboard.resources
+C:\Users\Jude Michael\Desktop\legit expo\legit na talaga to\caloy\legit expo\legit expo\Pastelería\Pastelería\obj\Debug\Pastelería.UI.frmUsers.resources
+C:\Users\Jude Michael\Desktop\legit expo\legit na talaga to\caloy\legit expo\legit expo\Pastelería\Pastelería\obj\Debug\Pastelería.csproj.GenerateResource.Cache
+C:\Users\Jude Michael\Desktop\Expo beta v2.0\Expo beta v2.0\Pastelería\Pastelería\bin\Debug\Pastelería.exe.config
+C:\Users\Jude Michael\Desktop\Expo beta v2.0\Expo beta v2.0\Pastelería\Pastelería\obj\Debug\Pastelería.exe
+C:\Users\Jude Michael\Desktop\Expo beta v2.0\Expo beta v2.0\Pastelería\Pastelería\obj\Debug\Pastelería.pdb
+F:\Drive\Expo beta v2.0\Expo beta v2.0\Expo beta v2.0\Pastelería\Pastelería\bin\Debug\Pastelería.exe.config
+F:\Drive\Expo beta v2.0\Expo beta v2.0\Expo beta v2.0\Pastelería\Pastelería\obj\Debug\Pastelería.exe
+F:\Drive\Expo beta v2.0\Expo beta v2.0\Expo beta v2.0\Pastelería\Pastelería\obj\Debug\Pastelería.pdb
+F:\Drive\Expo beta v2.0\Expo beta v2.0\Expo beta v2.0\Pastelería\Pastelería\bin\Debug\Pastelería.exe
+F:\Drive\Expo beta v2.0\Expo beta v2.0\Expo beta v2.0\Pastelería\Pastelería\bin\Debug\Pastelería.pdb
+F:\Drive\Expo beta v2.0\Expo beta v2.0\Expo beta v2.0\Pastelería\Pastelería\obj\Debug\Pastelería.csprojResolveAssemblyReference.cache
+F:\Drive\Expo beta v2.0\Expo beta v2.0\Expo beta v2.0\Pastelería\Pastelería\obj\Debug\Pastelería.frmAdminDashboard.resources
+F:\Drive\Expo beta v2.0\Expo beta v2.0\Expo beta v2.0\Pastelería\Pastelería\obj\Debug\Pastelería.UI.frmCategories.resources
+F:\Drive\Expo beta v2.0\Expo beta v2.0\Expo beta v2.0\Pastelería\Pastelería\obj\Debug\Pastelería.UI.frmInventory.resources
+F:\Drive\Expo beta v2.0\Expo beta v2.0\Expo beta v2.0\Pastelería\Pastelería\obj\Debug\Pastelería.UI.frmLogin.resources
+F:\Drive\Expo beta v2.0\Expo beta v2.0\Expo beta v2.0\Pastelería\Pastelería\obj\Debug\Pastelería.UI.frmProducts.resources
+F:\Drive\Expo beta v2.0\Expo beta v2.0\Expo beta v2.0\Pastelería\Pastelería\obj\Debug\Pastelería.UI.frmReports.resources
+F:\Drive\Expo beta v2.0\Expo beta v2.0\Expo beta v2.0\Pastelería\Pastelería\obj\Debug\Pastelería.UI.frmtrans.resources
+F:\Drive\Expo beta v2.0\Expo beta v2.0\Expo beta v2.0\Pastelería\Pastelería\obj\Debug\Pastelería.Properties.Resources.resources
+F:\Drive\Expo beta v2.0\Expo beta v2.0\Expo beta v2.0\Pastelería\Pastelería\obj\Debug\Pastelería.frmUserDashboard.resources
+F:\Drive\Expo beta v2.0\Expo beta v2.0\Expo beta v2.0\Pastelería\Pastelería\obj\Debug\Pastelería.UI.frmUsers.resources
+F:\Drive\Expo beta v2.0\Expo beta v2.0\Expo beta v2.0\Pastelería\Pastelería\obj\Debug\Pastelería.csproj.GenerateResource.Cache
+C:\Users\Jude Michael\Desktop\asdasdsadasdasdasdasdasdasdasda\Expo beta v2.0\Expo beta v2.0\Expo beta v2.0\Pastelería\Pastelería\bin\Debug\Pastelería.exe.config
+C:\Users\Jude Michael\Desktop\asdasdsadasdasdasdasdasdasdasda\Expo beta v2.0\Expo beta v2.0\Expo beta v2.0\Pastelería\Pastelería\obj\Debug\Pastelería.exe
+C:\Users\Jude Michael\Desktop\asdasdsadasdasdasdasdasdasdasda\Expo beta v2.0\Expo beta v2.0\Expo beta v2.0\Pastelería\Pastelería\obj\Debug\Pastelería.pdb
+C:\Users\Jude Michael\Desktop\asdasdsadasdasdasdasdasdasdasda\Expo beta v2.0\Expo beta v2.0\Expo beta v2.0\Pastelería\Pastelería\bin\Debug\Pastelería.exe
+C:\Users\Jude Michael\Desktop\asdasdsadasdasdasdasdasdasdasda\Expo beta v2.0\Expo beta v2.0\Expo beta v2.0\Pastelería\Pastelería\bin\Debug\Pastelería.pdb
+C:\Users\Jude Michael\Desktop\asdasdsadasdasdasdasdasdasdasda\Expo beta v2.0\Expo beta v2.0\Expo beta v2.0\Pastelería\Pastelería\obj\Debug\Pastelería.csprojResolveAssemblyReference.cache
+C:\Users\Jude Michael\Desktop\asdasdsadasdasdasdasdasdasdasda\Expo beta v2.0\Expo beta v2.0\Expo beta v2.0\Pastelería\Pastelería\obj\Debug\Pastelería.frmAdminDashboard.resources
+C:\Users\Jude Michael\Desktop\asdasdsadasdasdasdasdasdasdasda\Expo beta v2.0\Expo beta v2.0\Expo beta v2.0\Pastelería\Pastelería\obj\Debug\Pastelería.UI.frmCategories.resources
+C:\Users\Jude Michael\Desktop\asdasdsadasdasdasdasdasdasdasda\Expo beta v2.0\Expo beta v2.0\Expo beta v2.0\Pastelería\Pastelería\obj\Debug\Pastelería.UI.frmInventory.resources
+C:\Users\Jude Michael\Desktop\asdasdsadasdasdasdasdasdasdasda\Expo beta v2.0\Expo beta v2.0\Expo beta v2.0\Pastelería\Pastelería\obj\Debug\Pastelería.UI.frmLogin.resources
+C:\Users\Jude Michael\Desktop\asdasdsadasdasdasdasdasdasdasda\Expo beta v2.0\Expo beta v2.0\Expo beta v2.0\Pastelería\Pastelería\obj\Debug\Pastelería.UI.frmProducts.resources
+C:\Users\Jude Michael\Desktop\asdasdsadasdasdasdasdasdasdasda\Expo beta v2.0\Expo beta v2.0\Expo beta v2.0\Pastelería\Pastelería\obj\Debug\Pastelería.UI.frmReports.resources
+C:\Users\Jude Michael\Desktop\asdasdsadasdasdasdasdasdasdasda\Expo beta v2.0\Expo beta v2.0\Expo beta v2.0\Pastelería\Pastelería\obj\Debug\Pastelería.UI.frmtrans.resources
+C:\Users\Jude Michael\Desktop\asdasdsadasdasdasdasdasdasdasda\Expo beta v2.0\Expo beta v2.0\Expo beta v2.0\Pastelería\Pastelería\obj\Debug\Pastelería.Properties.Resources.resources
+C:\Users\Jude Michael\Desktop\asdasdsadasdasdasdasdasdasdasda\Expo beta v2.0\Expo beta v2.0\Expo beta v2.0\Pastelería\Pastelería\obj\Debug\Pastelería.frmUserDashboard.resources
+C:\Users\Jude Michael\Desktop\asdasdsadasdasdasdasdasdasdasda\Expo beta v2.0\Expo beta v2.0\Expo beta v2.0\Pastelería\Pastelería\obj\Debug\Pastelería.UI.frmUsers.resources
+C:\Users\Jude Michael\Desktop\asdasdsadasdasdasdasdasdasdasda\Expo beta v2.0\Expo beta v2.0\Expo beta v2.0\Pastelería\Pastelería\obj\Debug\Pastelería.csproj.GenerateResource.Cache
+C:\Users\Jude Michael\Desktop\Expo beta v2.0\Expo beta v2.0\Expo beta v2.0\Pastelería\Pastelería\bin\Debug\Pastelería.exe.config
+C:\Users\Jude Michael\Desktop\Expo beta v2.0\Expo beta v2.0\Expo beta v2.0\Pastelería\Pastelería\obj\Debug\Pastelería.exe
+C:\Users\Jude Michael\Desktop\Expo beta v2.0\Expo beta v2.0\Expo beta v2.0\Pastelería\Pastelería\obj\Debug\Pastelería.pdb
+C:\Users\Jude Michael\Desktop\Expo beta v2.0\Expo beta v2.0\Expo beta v2.0\Pastelería\Pastelería\bin\Debug\Pastelería.exe
+C:\Users\Jude Michael\Desktop\Expo beta v2.0\Expo beta v2.0\Expo beta v2.0\Pastelería\Pastelería\bin\Debug\Pastelería.pdb
+C:\Users\Jude Michael\Desktop\Expo beta v2.0\Expo beta v2.0\Expo beta v2.0\Pastelería\Pastelería\obj\Debug\Pastelería.frmAdminDashboard.resources
+C:\Users\Jude Michael\Desktop\Expo beta v2.0\Expo beta v2.0\Expo beta v2.0\Pastelería\Pastelería\obj\Debug\Pastelería.UI.frmCategories.resources
+C:\Users\Jude Michael\Desktop\Expo beta v2.0\Expo beta v2.0\Expo beta v2.0\Pastelería\Pastelería\obj\Debug\Pastelería.UI.frmInventory.resources
+C:\Users\Jude Michael\Desktop\Expo beta v2.0\Expo beta v2.0\Expo beta v2.0\Pastelería\Pastelería\obj\Debug\Pastelería.UI.frmLogin.resources
+C:\Users\Jude Michael\Desktop\Expo beta v2.0\Expo beta v2.0\Expo beta v2.0\Pastelería\Pastelería\obj\Debug\Pastelería.UI.frmProducts.resources
+C:\Users\Jude Michael\Desktop\Expo beta v2.0\Expo beta v2.0\Expo beta v2.0\Pastelería\Pastelería\obj\Debug\Pastelería.UI.frmReports.resources
+C:\Users\Jude Michael\Desktop\Expo beta v2.0\Expo beta v2.0\Expo beta v2.0\Pastelería\Pastelería\obj\Debug\Pastelería.UI.frmtrans.resources
+C:\Users\Jude Michael\Desktop\Expo beta v2.0\Expo beta v2.0\Expo beta v2.0\Pastelería\Pastelería\obj\Debug\Pastelería.Properties.Resources.resources
+C:\Users\Jude Michael\Desktop\Expo beta v2.0\Expo beta v2.0\Expo beta v2.0\Pastelería\Pastelería\obj\Debug\Pastelería.frmUserDashboard.resources
+C:\Users\Jude Michael\Desktop\Expo beta v2.0\Expo beta v2.0\Expo beta v2.0\Pastelería\Pastelería\obj\Debug\Pastelería.UI.frmUsers.resources
+C:\Users\Jude Michael\Desktop\Expo beta v2.0\Expo beta v2.0\Expo beta v2.0\Pastelería\Pastelería\obj\Debug\Pastelería.csproj.GenerateResource.Cache
+C:\Users\Jude Michael\Desktop\Expo beta v2.0\Expo beta v2.0\Expo beta v2.0\Pastelería\Pastelería\obj\Debug\Pastelería.csprojResolveAssemblyReference.cache
+C:\Users\makoy2017\Documents\My files\Programming\Expo beta v3.0\Expo beta v3.0\Pastelería\Pastelería\bin\Debug\Pastelería.exe.config
+C:\Users\makoy2017\Documents\My files\Programming\Expo beta v3.0\Expo beta v3.0\Pastelería\Pastelería\obj\Debug\Pastelería.exe
+C:\Users\makoy2017\Documents\My files\Programming\Expo beta v3.0\Expo beta v3.0\Pastelería\Pastelería\obj\Debug\Pastelería.pdb
+C:\Users\makoy2017\Documents\My files\Programming\Expo beta v3.0\Expo beta v3.0\Pastelería\Pastelería\bin\Debug\Pastelería.exe
+C:\Users\makoy2017\Documents\My files\Programming\Expo beta v3.0\Expo beta v3.0\Pastelería\Pastelería\bin\Debug\Pastelería.pdb
+C:\Users\makoy2017\Documents\My files\Programming\Expo beta v3.0\Expo beta v3.0\Pastelería\Pastelería\obj\Debug\Pastelería.csprojResolveAssemblyReference.cache
+C:\Users\makoy2017\Documents\My files\Programming\Expo beta v3.0\Expo beta v3.0\Pastelería\Pastelería\obj\Debug\Pastelería.frmAdminDashboard.resources
+C:\Users\makoy2017\Documents\My files\Programming\Expo beta v3.0\Expo beta v3.0\Pastelería\Pastelería\obj\Debug\Pastelería.UI.frmCategories.resources
+C:\Users\makoy2017\Documents\My files\Programming\Expo beta v3.0\Expo beta v3.0\Pastelería\Pastelería\obj\Debug\Pastelería.UI.frmInventory.resources
+C:\Users\makoy2017\Documents\My files\Programming\Expo beta v3.0\Expo beta v3.0\Pastelería\Pastelería\obj\Debug\Pastelería.UI.frmLogin.resources
+C:\Users\makoy2017\Documents\My files\Programming\Expo beta v3.0\Expo beta v3.0\Pastelería\Pastelería\obj\Debug\Pastelería.UI.frmProducts.resources
+C:\Users\makoy2017\Documents\My files\Programming\Expo beta v3.0\Expo beta v3.0\Pastelería\Pastelería\obj\Debug\Pastelería.UI.frmReports.resources
+C:\Users\makoy2017\Documents\My files\Programming\Expo beta v3.0\Expo beta v3.0\Pastelería\Pastelería\obj\Debug\Pastelería.UI.frmtrans.resources
+C:\Users\makoy2017\Documents\My files\Programming\Expo beta v3.0\Expo beta v3.0\Pastelería\Pastelería\obj\Debug\Pastelería.Properties.Resources.resources
+C:\Users\makoy2017\Documents\My files\Programming\Expo beta v3.0\Expo beta v3.0\Pastelería\Pastelería\obj\Debug\Pastelería.frmUserDashboard.resources
+C:\Users\makoy2017\Documents\My files\Programming\Expo beta v3.0\Expo beta v3.0\Pastelería\Pastelería\obj\Debug\Pastelería.UI.frmUsers.resources
+C:\Users\makoy2017\Documents\My files\Programming\Expo beta v3.0\Expo beta v3.0\Pastelería\Pastelería\obj\Debug\Pastelería.csproj.GenerateResource.Cache
+D:\Expo beta v3.0\Expo beta v3.0\Pastelería\Pastelería\bin\Debug\Pastelería.exe.config
+D:\Expo beta v3.0\Expo beta v3.0\Pastelería\Pastelería\bin\Debug\Pastelería.exe
+D:\Expo beta v3.0\Expo beta v3.0\Pastelería\Pastelería\bin\Debug\Pastelería.pdb
+D:\Expo beta v3.0\Expo beta v3.0\Pastelería\Pastelería\obj\Debug\Pastelería.csprojAssemblyReference.cache
+D:\Expo beta v3.0\Expo beta v3.0\Pastelería\Pastelería\obj\Debug\Pastelería.frmAdminDashboard.resources
+D:\Expo beta v3.0\Expo beta v3.0\Pastelería\Pastelería\obj\Debug\Pastelería.UI.frmCategories.resources
+D:\Expo beta v3.0\Expo beta v3.0\Pastelería\Pastelería\obj\Debug\Pastelería.UI.frmInventory.resources
+D:\Expo beta v3.0\Expo beta v3.0\Pastelería\Pastelería\obj\Debug\Pastelería.UI.frmLogin.resources
+D:\Expo beta v3.0\Expo beta v3.0\Pastelería\Pastelería\obj\Debug\Pastelería.UI.frmProducts.resources
+D:\Expo beta v3.0\Expo beta v3.0\Pastelería\Pastelería\obj\Debug\Pastelería.UI.frmReports.resources
+D:\Expo beta v3.0\Expo beta v3.0\Pastelería\Pastelería\obj\Debug\Pastelería.UI.frmtrans.resources
+D:\Expo beta v3.0\Expo beta v3.0\Pastelería\Pastelería\obj\Debug\Pastelería.Properties.Resources.resources
+D:\Expo beta v3.0\Expo beta v3.0\Pastelería\Pastelería\obj\Debug\Pastelería.frmUserDashboard.resources
+D:\Expo beta v3.0\Expo beta v3.0\Pastelería\Pastelería\obj\Debug\Pastelería.UI.frmUsers.resources
+D:\Expo beta v3.0\Expo beta v3.0\Pastelería\Pastelería\obj\Debug\Pastelería.csproj.GenerateResource.cache
+D:\Expo beta v3.0\Expo beta v3.0\Pastelería\Pastelería\obj\Debug\Pastelería.csproj.CoreCompileInputs.cache
+D:\Expo beta v3.0\Expo beta v3.0\Pastelería\Pastelería\obj\Debug\Pastelería.exe
+D:\Expo beta v3.0\Expo beta v3.0\Pastelería\Pastelería\obj\Debug\Pastelería.pdb
+D:\CALOY FILES\Expo beta v3.0\Pastelería\Pastelería\bin\Debug\Pastelería.exe.config
+D:\CALOY FILES\Expo beta v3.0\Pastelería\Pastelería\bin\Debug\Pastelería.exe
+D:\CALOY FILES\Expo beta v3.0\Pastelería\Pastelería\bin\Debug\Pastelería.pdb
+D:\CALOY FILES\Expo beta v3.0\Pastelería\Pastelería\obj\Debug\Pastelería.csproj.AssemblyReference.cache
+D:\CALOY FILES\Expo beta v3.0\Pastelería\Pastelería\obj\Debug\Pastelería.csproj.SuggestedBindingRedirects.cache
+D:\CALOY FILES\Expo beta v3.0\Pastelería\Pastelería\obj\Debug\Pastelería.frmAdminDashboard.resources
+D:\CALOY FILES\Expo beta v3.0\Pastelería\Pastelería\obj\Debug\Pastelería.UI.frmCategories.resources
+D:\CALOY FILES\Expo beta v3.0\Pastelería\Pastelería\obj\Debug\Pastelería.UI.frmInventory.resources
+D:\CALOY FILES\Expo beta v3.0\Pastelería\Pastelería\obj\Debug\Pastelería.UI.frmLogin.resources
+D:\CALOY FILES\Expo beta v3.0\Pastelería\Pastelería\obj\Debug\Pastelería.UI.frmProducts.resources
+D:\CALOY FILES\Expo beta v3.0\Pastelería\Pastelería\obj\Debug\Pastelería.UI.frmReports.resources
+D:\CALOY FILES\Expo beta v3.0\Pastelería\Pastelería\obj\Debug\Pastelería.UI.frmtrans.resources
+D:\CALOY FILES\Expo beta v3.0\Pastelería\Pastelería\obj\Debug\Pastelería.Properties.Resources.resources
+D:\CALOY FILES\Expo beta v3.0\Pastelería\Pastelería\obj\Debug\Pastelería.frmUserDashboard.resources
+D:\CALOY FILES\Expo beta v3.0\Pastelería\Pastelería\obj\Debug\Pastelería.UI.frmUsers.resources
+D:\CALOY FILES\Expo beta v3.0\Pastelería\Pastelería\obj\Debug\Pastelería.csproj.GenerateResource.cache
+D:\CALOY FILES\Expo beta v3.0\Pastelería\Pastelería\obj\Debug\Pastelería.csproj.CoreCompileInputs.cache
+D:\CALOY FILES\Expo beta v3.0\Pastelería\Pastelería\obj\Debug\Pastelería.exe
+D:\CALOY FILES\Expo beta v3.0\Pastelería\Pastelería\obj\Debug\Pastelería.pdb
+D:\CALOY FILES\Expo beta v3.0\Pastelería\Pastelería\bin\Debug\Pastelería.mdf
+D:\CALOY FILES\Expo beta v3.0\Pastelería\Pastelería\bin\Debug\Pastelería_log.ldf
